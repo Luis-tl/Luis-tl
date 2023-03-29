@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis
 - 👀 I’m interested in search engines, languages, sport and literature.
-- 🌱 I’m currently learning html, css and javascript.
+- 🌱 I’m currently learning html, css, javascript and python.
 - 💞️ I’m looking to collaborate on language projects, SEO and Content Creation
 - 📫 How to reach me, just write me here ;) 
 
